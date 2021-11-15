@@ -1,9 +1,8 @@
 ### Hi there 👋
-<div>
-<center>
+
+<p align="center">
 <img src ="https://c.tenor.com/71O-eBqXONcAAAAd/wasted-hungover.gif"/> 
-</center>
-</div>
+</p>
 <!--
 **PabloR9080/PabloR9080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
