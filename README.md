@@ -3,7 +3,7 @@
 My portfolio [Here](https://pablor9080.github.io/Portfolio/)
 
 <p align= "center" >
-  <img src= "https://www.spriters-resource.com/resources/sheet_icons/63/66599.gif" width = 500/>
+  <img src= "https://www.spriters-resource.com/resources/sheet_icons/63/66599.gif" width = 400/>
 </p>
 <!--
 <p align="center">
