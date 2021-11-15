@@ -3,6 +3,8 @@
 
 <p align="center">
 <img src ="https://c.tenor.com/71O-eBqXONcAAAAd/wasted-hungover.gif"/> 
+</p>
+<p>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/78/81088.png" width = 300/>
 </p>
 
