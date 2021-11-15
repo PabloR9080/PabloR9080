@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-My portfolio --> [Here](https://pablor9080.github.io/Portfolio/) <--
+My portfolio [Here](https://pablor9080.github.io/Portfolio/)
 <p align="center">
 <img src ="https://c.tenor.com/71O-eBqXONcAAAAd/wasted-hungover.gif"/> 
 </p>
