@@ -5,7 +5,7 @@
 <img src ="https://c.tenor.com/71O-eBqXONcAAAAd/wasted-hungover.gif"/> 
 </p>
 <p align= "center" >
-  <img src= "https://www.spriters-resource.com/resources/sheet_icons/63/66599.gif" width = 300/>
+  <img src= "https://www.spriters-resource.com/resources/sheet_icons/63/66599.gif" width = 500/>
 </p>
 
 <!--
